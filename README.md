@@ -7,11 +7,12 @@ User Stories:
 2. If it does, it returns both the Unix timestamp and the natural language form of that date.
 
 3. If it does not contain a date or Unix timestamp, it returns null for those properties.
-Example Usage:
-https://season-jasmine.glitch.me//June 22, 2017 
-https://season-jasmine.glitch.me//1498089600
-Example Output:
-{ unix: 1498089600, natural: "June 22, 2017" } 
 
-Created by Brian Chien. 
+Example Usage:<br>
+https://season-jasmine.glitch.me//June 22, 2017 <br>
+https://season-jasmine.glitch.me//1498089600 <br>
+Example Output: <br>
+{ unix: 1498089600, natural: "June 22, 2017" } 
+<br><br>
+Created by Brian Chien. <br><br>
 FCC Project - Timestamp Microservice
